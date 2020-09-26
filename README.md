@@ -1,6 +1,7 @@
-# Amnesia: The Dark Descent - HPL Chad Gang Fork
+# Amnesia: The Dark Descent
+## HPL Chad Gang Fork Fork
 
-This is a fork of the Amnesia the Dark Descent repository from FrictionalGames. We will mostly play with different parts of the engine and perhaps even fix some bugs :)
+Just created a fork of our primary fork for playing around. If I create anything interesting, I'll probably push it to the other fork instead.
 
 ## Index
 
